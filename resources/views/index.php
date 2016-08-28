@@ -6,6 +6,6 @@
     <script src="assets/js/phaser.js"></script>
 </head>
 <body>
-
+    <div>Lumen</div>
 </body>
 </html>
